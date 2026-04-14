@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Min Pan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "College Station"
+  bio              : "PhD Student in health and Natural and built environment"
+  location         : "College Station, Texas"
   employer         : "Texas A&M University"
   uri              : # URL
   email            : "panmin@tamu.edu" 
@@ -35,14 +35,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=3VVu6pEAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-0415-2740"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Min-Pan-15"
   scopus           : # URL
   zotero           : # URL
 
