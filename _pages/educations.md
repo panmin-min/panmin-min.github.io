@@ -4,43 +4,22 @@ permalink: /education/
 author_profile: true
 ---
 
-## Education
+[2025–present] **Ph.D., Architecture**  
+Texas A&M University, College Station, USA  
+Track: Design for Health  
 
-### Ph.D. in Architecture  
-**Texas A&M University**, College Station, USA · *2025–present*  
-
-- Major: Architecture, College of Architecture (COA)  
-- Track: Design for Health  
-
----
-
-### Master of Architecture (M.Arch)  
-**Tongji University**, Shanghai, China · *2021–2024*  
-
-**Major: Architecture and Urban Design**  
-College of Architecture and Urban Planning (CAUP)  
+[2021–2024] **M.Arch, Architecture and Urban Design**  
+Tongji University, College of Architecture and Urban Planning (CAUP), Shanghai, China  
 GPA: 4.38 / 5.0  
-Courses: Environmental Psychology; Theory of Building Technology Science; Urban Design Analysis Techniques, etc.  
 
-**Minor: Sustainable Development**  
-Institute of Environment for Sustainable Development (IESD)  
+[2021–2022] **Minor in Sustainable Development**  
+Tongji University, Institute of Environment for Sustainable Development (IESD), Shanghai, China
 GPA: 4.10 / 5.0  
-Courses: Sustainable Thinking; Environmental Economics & Sustainable Development; United Nations Climate Change, etc.  
 
----
+[2022–2024] **Dual M.Arch, Architecture**  
+IUAV University of Venice, College of Architecture, Venice, Italy  
+GPA: 27.83 / 30  
 
-### Dual Master of Architecture (M.Arch)  
-**IUAV University of Venice**, Venice, Italy · *2022–2024*  
-
-- Major: Architecture, College of Architecture  
-- GPA: 27.83 / 30  
-- Courses: History of Contemporary Architecture; Heritage and Project; Rome: Urban History & Architecture, etc.  
-
----
-
-### Bachelor of Engineering in Architecture  
-**Wuhan Institute of Technology**, Wuhan, China · *2014–2019*  
-
-- Major: Architecture, School of Civil Engineering and Architecture  
-- GPA: 3.5 / 5.0 (top 10%)  
-- Courses: Architectural Design; Building Mechanics; Building Acoustics & Optics; Principles of Landscape Architecture, etc.  
+[2014–2019] **B.E., Architecture**  
+Wuhan Institute of Technology, School of Civil Engineering and Architecture, Wuhan, China  
+GPA: 3.5 / 5.0 (top 10%)
