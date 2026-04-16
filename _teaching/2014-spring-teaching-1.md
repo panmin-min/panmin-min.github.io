@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "ARCH 106: Architecture Design II"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/2026-spring-arch106
+venue: "Texas A&M University, Department of Architecture"
+date: 2026-01-15
+location: "College Station, Texas, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assistant, **ARCH 106: Architecture Design II**, Spring 2026,  
+Texas A&M University, College Station, USA.
 
-Heading 1
-======
+This is a foundational studio course that introduces first–year architecture students to core principles of architectural design, representation, and spatial thinking.  
 
-Heading 2
-======
+**Instructors:**  
+Dr. Benjamin Baaske, Chenjie Xiong, Andrew Reed Tripp, Nestor Ismael Infanzon, Hans Steffes.  
 
-Heading 3
-======
+**Responsibilities:**  
+- Assisted with studio instruction, desk crits, and pin–up reviews.  
+- Guided students through introductory design exercises and model-making.  
+- Provided feedback on drawings, representations, and design presentations.  
+- Supported coordination of course materials and review sessions.
