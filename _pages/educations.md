@@ -17,14 +17,15 @@ author_profile: true
 ### Master of Architecture (M.Arch)  
 **Tongji University**, Shanghai, China · *2021–2024*  
 
-- Major: Architecture and Urban Design, College of Architecture and Urban Planning (CAUP)  
-- GPA: 4.38 / 5.0  
-- Selected courses: Environmental Psychology; Theory of Building Technology Science; Urban Design Analysis Techniques, etc.  
+**Major: Architecture and Urban Design**  
+College of Architecture and Urban Planning (CAUP)  
+GPA: 4.38 / 5.0  
+Courses: Environmental Psychology; Theory of Building Technology Science; Urban Design Analysis Techniques, etc.  
 
-**Minor in Sustainable Development**  
-- Institute of Environment for Sustainable Development (IESD)  
-- GPA: 4.10 / 5.0  
-- Selected courses: Sustainable Thinking; Environmental Economics & Sustainable Development; United Nations Climate Change, etc.  
+**Minor: Sustainable Development**  
+Institute of Environment for Sustainable Development (IESD)  
+GPA: 4.10 / 5.0  
+Courses: Sustainable Thinking; Environmental Economics & Sustainable Development; United Nations Climate Change, etc.  
 
 ---
 
@@ -33,7 +34,7 @@ author_profile: true
 
 - Major: Architecture, College of Architecture  
 - GPA: 27.83 / 30  
-- Selected courses: History of Contemporary Architecture; Heritage and Project; Rome: Urban History & Architecture, etc.  
+- Courses: History of Contemporary Architecture; Heritage and Project; Rome: Urban History & Architecture, etc.  
 
 ---
 
@@ -42,4 +43,4 @@ author_profile: true
 
 - Major: Architecture, School of Civil Engineering and Architecture  
 - GPA: 3.5 / 5.0 (top 10%)  
-- Selected courses: Architectural Design; Building Mechanics; Building Acoustics & Optics; Principles of Landscape Architecture, etc.  
+- Courses: Architectural Design; Building Mechanics; Building Acoustics & Optics; Principles of Landscape Architecture, etc.  
