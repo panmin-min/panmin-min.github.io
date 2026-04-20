@@ -320,3 +320,20 @@
     }
   }
 }
+
+/*
+   Footer readability fix for light mode
+   ========================================================================== */
+
+.page__footer,
+.page__footer footer,
+.page__footer a,
+.page__footer .fas,
+.page__footer .fab,
+.page__footer .ai {
+  color: #666666 !important;
+}
+
+.page__footer a:hover {
+  color: #000000 !important;
+}
