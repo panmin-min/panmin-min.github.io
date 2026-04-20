@@ -152,7 +152,7 @@
 
   img {
     max-width: 150px;
-    border-radius: 18px;
+    border-radius: 6px;
 
     @include breakpoint($large) {
       padding: 0;
@@ -322,18 +322,9 @@
 }
 
 /*
-   Footer readability fix for light mode
+   Hide footer to avoid overlap with author links
    ========================================================================== */
 
-.page__footer,
-.page__footer footer,
-.page__footer a,
-.page__footer .fas,
-.page__footer .fab,
-.page__footer .ai {
-  color: #666666 !important;
-}
-
-.page__footer a:hover {
-  color: #000000 !important;
+.page__footer {
+  display: none;
 }
