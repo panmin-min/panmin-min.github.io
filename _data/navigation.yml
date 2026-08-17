@@ -19,8 +19,8 @@ main:
   - title: "Awards & Honors"
     url: /awards/
 
-    - title: "Team"
-  url: https://kitaepark97.github.io/DrAL/#about
+  - title: "Team"
+    url: https://kitaepark97.github.io/DrAL/#about
   
   # - title: "CV"
   #   url: /cv-json/
