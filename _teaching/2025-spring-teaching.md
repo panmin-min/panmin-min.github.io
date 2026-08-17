@@ -8,7 +8,7 @@ date: 2025-02-15
 location: "Shanghai, China"
 ---
 
-In the first– and second-year undergraduate courses (ATU Program), I am responsible for lecturing, grading, proctoring exams, and recording final grades. The course focus is **English for International Business Communication**.
+In the first– and second-year undergraduate courses (ATU Program), I taught English for international business communication, and was responsible for lecturing, grading, proctoring exams, and recording final grades.
 
 **Course focus:**  
 - English for International Business Communication, with an emphasis on academic and professional contexts.  
