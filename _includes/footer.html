@@ -1,22 +1,10 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="mailto:panmin@tamu.edu?subject=Invitation%20to%20Speak&body=Hi%20there%2C%0A%0AThank%20you%20for%20your%20invitation.%20Please%20include%20the%20following%20details%20in%20your%20email%3A%0A%0ARequested%20topic%3A%0AOrganization%20%2F%20event%20name%3A%0APreferred%20date%20and%20time%20%28with%20time%20zone%29%3A%0AEstimated%20talk%20duration%20%28including%20Q%26A%29%3A%0AFormat%20%28in%20person%20or%20remote%29%3A%0AExpected%20audience%20%28who%2C%20and%20approximate%20size%29%3A%0ACompensation%20%28honorarium%2C%20travel%2C%20and%20lodging%29%3A"><i class="fas fa-microphone" aria-hidden="true"></i> Guest Speaking</a></li>
-    <li><a href="mailto:panmin@tamu.edu?subject=Paper%20Collaboration%20Inquiry&body=Hi%20there%2C%0A%0AThank%20you%20for%20your%20interest%20in%20collaborating%20on%20a%20paper.%20Please%20include%20the%20following%20details%20in%20your%20email%3A%0A%0AProposed%20topic%20%2F%20research%20focus%3A%0AAuthor%28s%29%27%20name%28s%29%3A%0APreferred%20meeting%20date%20and%20time%20%28with%20time%20zone%29%3A%0AEstimated%20time%20commitment%20%28planning%20and%20discussion%29%3A%0AProposed%20role%20%28e.g.%2C%20co-author%2C%20contributor%20of%20ideas%29%3A%0AFormat%20%28in%20person%20or%20remote%29%3A"><i class="fas fa-handshake" aria-hidden="true"></i> Paper Collaboration</a></li>
-  </ul>
+<div class="page__footer-follow" style="text-align:center; margin: 2em 0;">
+  <a href="mailto:panmin@tamu.edu?subject=Paper%20Collaboration%20Inquiry&body=Hi%20there%2C%0A%0AThank%20you%20for%20your%20interest%20in%20collaborating%20on%20a%20paper.%20Please%20include%20the%20following%20details%20in%20your%20email%3A%0A%0AProposed%20topic%20%2F%20research%20focus%3A%0AAuthor%28s%29%27%20name%28s%29%3A%0APreferred%20meeting%20date%20and%20time%20%28with%20time%20zone%29%3A%0AEstimated%20time%20commitment%20%28planning%20and%20discussion%29%3A%0AProposed%20role%20%28e.g.%2C%20co-author%2C%20contributor%20of%20ideas%29%3A%0AFormat%20%28in%20person%20or%20remote%29%3A" class="btn btn--primary" style="margin: 0 6px;">Paper Collaboration</a>
+  <a href="mailto:panmin@tamu.edu?subject=Invitation%20to%20Speak&body=Hi%20there%2C%0A%0AThank%20you%20for%20your%20invitation.%20Please%20include%20the%20following%20details%20in%20your%20email%3A%0A%0ARequested%20topic%3A%0AOrganization%20%2F%20event%20name%3A%0APreferred%20date%20and%20time%20%28with%20time%20zone%29%3A%0AEstimated%20talk%20duration%20%28including%20Q%26A%29%3A%0AFormat%20%28in%20person%20or%20remote%29%3A%0AExpected%20audience%20%28who%2C%20and%20approximate%20size%29%3A%0ACompensation%20%28honorarium%2C%20travel%2C%20and%20lodging%29%3A" class="btn btn--primary" style="margin: 0 6px;">Guest Speaking</a>
+  <a href="https://follow.it/min-pan?leanpub" class="btn btn--primary" target="_blank" rel="noopener noreferrer" style="margin: 0 6px;">Feed</a>
 </div>
-{% endif %}
 
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
