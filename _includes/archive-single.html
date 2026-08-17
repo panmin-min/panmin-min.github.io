@@ -39,7 +39,10 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y"  }} </p>
+          {% assign post_month = post.date | default: "1900-01-01" | date: "%m" | plus: 0 %}
+{% if post_month >= 1 and post_month <= 5 %}{% assign post_season = "Spring" %}{% elsif post_month >= 6 and post_month <= 7 %}{% assign post_season = "Summer" %}{% else %}{% assign post_season = "Fall" %}{% endif %}
+<p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post_season }} {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
