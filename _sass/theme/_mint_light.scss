@@ -2,7 +2,7 @@
   MINT THEME - LIGHT VERSION
   ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #11999e;
+$primary-color              : #2d4a3e;
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
@@ -12,9 +12,9 @@ $background-light           : #ffffff;
 $background-lighter        : #fafbfb;
 $text                      : #40514e;
 $text-muted                : #5c6d6a;
-$link                      : #11999e;
-$link-dark                 : mix(#000, $link, 25%);
-$link-light                : mix(#fff, $link, 25%);
+$link                      : #2d4a3e;
+$link-dark                 : #5fa588;
+$link-light                : #7fb99d;
 $footer                    : #30e3ca;
 $border                    : mix(#fff, #40514e, 75%);
 $border-dark               : mix(#fff, #40514e, 60%);
@@ -49,8 +49,8 @@ $sidebar-screen-min-width   : 1024px;
   --global-link-color                 : #{$link};
   --global-link-color-hover           : #{$link-dark};
   --global-link-color-visited         : #{$link-light};
-  --global-masthead-link-color        : #{$text};
-  --global-masthead-link-color-hover  : #{$primary-color};
+  --global-masthead-link-color        : #{$link};
+  --global-masthead-link-color-hover  : #{$link-dark};
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$lighter-primary-color};
@@ -60,5 +60,3 @@ $sidebar-screen-min-width   : 1024px;
 footer {
   color: #{$text};
 }
-
-
