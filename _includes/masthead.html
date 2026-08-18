@@ -15,7 +15,7 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}{% if link.children %} has-dropdown{% endif %}">
-              <a href="{{ domain }}{{ link.url }}"{% if link.children %} onclick="return toggleNavDropdown(event, this)"{% endif %}>{{ link.title }}</a>
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
               {% if link.children %}
                 <ul class="dropdown-menu">
                   {% for child in link.children %}
@@ -34,22 +34,3 @@
     </div>
   </div>
 </div>
-
-<script>
-  function toggleNavDropdown(e, el) {
-    e.preventDefault();
-    var li = el.parentElement;
-    var wasOpen = li.classList.contains('dropdown-open');
-    document.querySelectorAll('.masthead__menu-item.has-dropdown').forEach(function(item){
-      item.classList.remove('dropdown-open');
-    });
-    if (!wasOpen) li.classList.add('dropdown-open');
-  }
-  document.addEventListener('click', function(e) {
-    if (!e.target.closest('.has-dropdown')) {
-      document.querySelectorAll('.masthead__menu-item.has-dropdown').forEach(function(item){
-        item.classList.remove('dropdown-open');
-      });
-    }
-  });
-</script>
