@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 [2025–present] **Ph.D., Architecture**  
-[Texas A&M University](https://www.tamu.edu), [College of Architecture](https://www.arch.tamu.edu/), College Station, USA  
+[Texas A&M University (TAMU)](https://www.tamu.edu), [College of Architecture](https://www.arch.tamu.edu/), College Station, USA  
 Track: Design for Health  
 
 [2021–2024] **M.Arch, Architecture and Urban Design**  
