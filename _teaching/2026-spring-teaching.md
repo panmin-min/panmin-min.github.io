@@ -10,8 +10,7 @@ class_size: "~90 students (5 sections | design studio)"
 ---
 
 In first-year undergraduate design studio, I supported students with design concepts, modeling, and visualization—primarily using Rhino and Adobe Illustrator.<br>
-**Class size:**  
-~90 students (5 sections)
+**Class size:** ~90 students (5 sections)
 
 **Instructors:**  
 Dr. Benjamin Baaske, Chenjie Xiong, Andrew Reed Tripp, Nestor Ismael Infanzon, Hans Steffes.
