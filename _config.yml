@@ -28,7 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Architecture"
   location         : "College Station, Texas"
+  location_url     : "https://www.cstx.gov/"
   employer         : "Texas A&M University"
+  employer_url     : "https://www.tamu.edu"
   uri              : # URL
   email            : "panmin@tamu.edu" 
 
