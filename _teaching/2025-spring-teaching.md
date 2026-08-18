@@ -9,7 +9,7 @@ location: "Shanghai, China"
 class_size: "~20 students (lecture)"
 ---
 
-In the first- and second-year undergraduate courses (ATU Program), I taught English for international business communication.
+In the first- and second-year undergraduate courses (ATU Program), I taught English for international business communication.<br>
 **Class size:** 
 ~20 students
 
