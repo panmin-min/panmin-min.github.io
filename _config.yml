@@ -12,8 +12,8 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Min Pan"
 title_separator          : "-"
 name                     : &name "Min Pan"
-description              : &description "Min Pan is a PhD student in Architecture at Texas A&M University (TAMU), with prior degrees from Tongji University and IUAV University of Venice, studying the effects of the natural and built environment on human health"url                      : "https://panmin-min.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Min Pan is a PhD student in Architecture at Texas A&M University (TAMU), with prior degrees from Tongji University and IUAV University of Venice, studying the effects of the natural and built environment on human health"
+url                       : "https://panmin-min.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panmin-min/panmin-min.github.io"
 
