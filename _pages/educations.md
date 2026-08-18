@@ -24,4 +24,4 @@ GPA: 27.83 / 30
 [2015–2020] **B.E., Architecture**  
 [Wuhan Institute of Technology](https://www.wit.edu.cn/english/), [School of Civil Engineering and Architecture](https://cea.wit.edu.cn/), Wuhan, China  
 GPA: 3.5 / 5.0 (top 10%)  
-[Undergraduate thesis design](https://www.bilibili.com/video/BV1Wz4y197Nb/)
+[![Undergraduate thesis design](https://i2.hdslb.com/bfs/archive/daeed16739cfe08dc80d8b475de55b7eada58fdf.jpg@400w_250h)](https://www.bilibili.com/video/BV1Wz4y197Nb/)
