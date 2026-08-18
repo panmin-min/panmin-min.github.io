@@ -22,11 +22,11 @@ GPA: 27.83 / 30
 
 [2021–2022] **Minor in Sustainable Development**  
 [Tongji University](https://en.tongji.edu.cn/), [Institute of Environment for Sustainable Development (IESD)](https://unep-iesd.tongji.edu.cn/), Shanghai, China
-Track: Carbon Emission Trading
+Track: Carbon Emission Trading  
 GPA: 4.10 / 5.0  
 
 [2015–2020] **B.E., Architecture**  
 [Wuhan Institute of Technology](https://www.wit.edu.cn/english/), [School of Civil Engineering and Architecture](https://cea.wit.edu.cn/), Wuhan, China  
-Track: Architecture Design
+Track: Architecture Design  
 GPA: 3.5 / 5.0 (top 10%)  
 [![Undergraduate thesis design](/images/undergraduate-thesis-design.jpg)](https://www.bilibili.com/video/BV1Wz4y197Nb/)
