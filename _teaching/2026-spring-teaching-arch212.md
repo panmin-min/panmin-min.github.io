@@ -8,7 +8,7 @@ date: 2026-08-24
 location: "College Station, Texas, USA"
 ---
 
-In this course, I support students in understanding how social and behavioral factors shape healthy environments—including privacy, crowding, and environmental perception in the built environment.
+In second-year undergraduate courses, I support students in understanding how social and behavioral factors shape healthy environments—including privacy, crowding, and environmental perception in the built environment.
 
 **Instructor:**  
 Dr. Xuemei Zhu.
