@@ -6,6 +6,7 @@ permalink: /teaching/2026-spring-arch212
 venue: "Texas A&M University, Department of Architecture"
 date: 2026-08-24
 location: "College Station, Texas, USA"
+class_size: "~180 students (lecture)"
 ---
 
 In second-year undergraduate courses, I support students in understanding how social and behavioral factors shape healthy environments—including privacy, crowding, and environmental perception in the built environment.
