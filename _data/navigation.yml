@@ -13,13 +13,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-    children:
-      - title: "ARCH 212: Social and Behavioral Factors"
-        url: /teaching/2026-spring-arch212
-      - title: "ARCH 106: Architecture Design II"
-        url: /teaching/2026-spring-arch106
-      - title: "Academic English"
-        url: /teaching/2025-spring-academic-english
 
   - title: "Awards & Honors"
     url: /awards/
