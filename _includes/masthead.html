@@ -15,13 +15,17 @@
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item {% if page.url contains link.url and link.url != '/' %}selected{% endif %}{% if link.children %} has-dropdown{% endif %}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
               {% if link.children %}
-                <ul class="dropdown-menu">
-                  {% for child in link.children %}
-                    <li><a href="{{ base_path }}{{ child.url }}">{{ child.title }}</a></li>
-                  {% endfor %}
-                </ul>
+                <details class="nav-dropdown">
+                  <summary>{{ link.title }}</summary>
+                  <ul class="dropdown-menu">
+                    {% for child in link.children %}
+                      <li><a href="{{ base_path }}{{ child.url }}">{{ child.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </details>
+              {% else %}
+                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
               {% endif %}
             </li>
           {% endfor %}
