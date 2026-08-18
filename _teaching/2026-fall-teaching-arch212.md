@@ -10,8 +10,7 @@ class_size: "~180 students (lecture)"
 ---
 
 In second-year undergraduate courses, I support students in understanding how social and behavioral factors shape healthy environments—including privacy, crowding, and environmental perception in the built environment.<br>
-**Class size:**  
-~180 students
+**Class size:** ~180 students
 
 **Instructor:**  
 Dr. Xuemei Zhu.
