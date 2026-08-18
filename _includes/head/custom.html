@@ -28,6 +28,34 @@
     background-color: #cccccc;
     color: #ffffff;
   }
+
+  .masthead__menu-item.has-dropdown { position: relative; }
+  .masthead__menu-item .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: var(--global-bg-color);
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+    min-width: 240px;
+    padding: 0.5em 0;
+    z-index: 50;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  }
+  .masthead__menu-item.has-dropdown:hover .dropdown-menu,
+  .masthead__menu-item.has-dropdown:focus-within .dropdown-menu {
+    display: block;
+  }
+  .dropdown-menu li { list-style: none; margin: 0; }
+  .dropdown-menu li a {
+    display: block;
+    padding: 0.5em 1em;
+    white-space: nowrap;
+    font-size: 0.9em;
+    color: var(--global-masthead-link-color);
+  }
+  .dropdown-menu li a:hover { color: var(--global-masthead-link-color-hover); }
 </style>
 
 <!-- end custom head snippets -->
