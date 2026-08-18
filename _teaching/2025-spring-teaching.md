@@ -6,7 +6,7 @@ permalink: /teaching/2025-spring-academic-english
 venue: "Tongji University, School of Economics and Management"
 date: 2025-02-15
 location: "Shanghai, China"
-class_size: "~20 students"
+class_size: "~20 students (lecture)"
 ---
 
 In the first- and second-year undergraduate courses (ATU Program), I taught English for international business communication.
