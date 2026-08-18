@@ -8,13 +8,13 @@ date: 2026-01-15
 location: "College Station, Texas, USA"
 ---
 
-In this first–year design studio, I supported students with design concepts, modeling, and visualization, primarily using Rhino and AI tools.
+In this first-year design studio, I supported students with design concepts, modeling, and visualization—primarily using Rhino and Adobe Illustrator.
 
 **Instructors:**  
-Dr. Benjamin Baaske, Chenjie Xiong, Andrew Reed Tripp, Nestor Ismael Infanzon, Hans Steffes.  
+Dr. Benjamin Baaske, Chenjie Xiong, Andrew Reed Tripp, Nestor Ismael Infanzon, Hans Steffes.
 
 **Responsibilities:**  
-- Assisted with studio instruction, desk crits, and pin–up reviews.  
-- Guided students through introductory design exercises and model–making.  
+- Assisted with studio instruction, desk crits, and pin-up reviews.  
+- Guided students through introductory design exercises and model-making.  
 - Provided feedback on drawings, representations, and design presentations.  
 - Supported coordination of course materials and review sessions.
