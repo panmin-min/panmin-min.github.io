@@ -8,13 +8,13 @@ date: 2026-08-24
 location: "College Station, Texas, USA"
 ---
 
-In this course, I support students in understanding how social and behavioral factors shape the design of the built environment, including environmental perception, spatial cognition, and issues such as privacy and crowding in residential, educational, and workplace settings.
+In this course, I support students in understanding how social and behavioral factors shape healthy environments—including privacy, crowding, and environmental perception in the built environment.
 
 **Instructor:**  
 Dr. Xuemei Zhu.
 
 **Responsibilities:**  
-- Assist with lecture preparation and lead in-class discussions on environment-behavior research and design applications.  
+- Assist with lecture preparation and lead in-class discussions on environment-behavior research.  
 - Grade assignments, readings, and exams.  
 - Hold office hours to support student understanding of course concepts.  
 - Provide feedback on student projects applying social and behavioral design principles.
