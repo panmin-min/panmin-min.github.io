@@ -8,7 +8,7 @@ date: 2026-01-15
 location: "College Station, Texas, USA"
 ---
 
-In this first-year design studio, I supported students with design concepts, modeling, and visualization—primarily using Rhino and Adobe Illustrator.
+In first-year undergraduate design studio, I supported students with design concepts, modeling, and visualization—primarily using Rhino and Adobe Illustrator.
 
 **Instructors:**  
 Dr. Benjamin Baaske, Chenjie Xiong, Andrew Reed Tripp, Nestor Ismael Infanzon, Hans Steffes.
